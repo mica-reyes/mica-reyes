@@ -25,6 +25,16 @@ Estoy finalizando el bootcamp de programación Full Stack Web Developer de soy H
 
 
 ## :pushpin: Mi proyecto
+### AppFood:
+<h4> Desarrollada con: </h4>
+<ul>
+    <li>Api externa spoonacular</li>
+    <li>React</li>
+    <li>Redux</li>
+    <li>NodeJs</li>
+    <li>Express</li>
+    <li>Sequelize</li>
+</ul>
 
 <p>
   <a><img src="https://raw.githubusercontent.com/mica-reyes/mica-reyes/main/image/1-apiFood.png" height="300" width="600"></a>
