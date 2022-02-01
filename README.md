@@ -4,7 +4,7 @@
 
 <h1  align="center"> Hola  👋, soy Micaela :computer: </h1>
 
-Estoy finalizando el bootcamp de programación Full Stack Web Developer de soy Henry. Además, cuento con formación y experiencia en laboratorio de alimentos que me han permitido construir habilidades para la solución de problemas y el pensamiento analítico. Durante los días de encierro en pandemia descubrí lo atrapante de la programación y decidí hacer un cambio en mi futuro laboral, por eso comencé el curso intensivo en línea de soy Henry con más de 700 horas de programación basada en la práctica y proyectos reales.
+Soy Full Stack Web Developer y además, cuento con formación y experiencia en laboratorio de alimentos que me han permitido construir habilidades para la solución de problemas y el pensamiento analítico. Durante los días de encierro en pandemia descubrí lo atrapante de la programación y decidí hacer un cambio en mi futuro laboral, por eso comencé el curso intensivo en línea de soy Henry con más de 700 horas de programación basada en la práctica y proyectos reales.
 
 
 ## 🚀 Lenguajes y herramientas
